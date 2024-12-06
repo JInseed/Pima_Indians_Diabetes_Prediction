@@ -34,7 +34,7 @@
 2. Modeling
     1. 예측 모델(NB, LR, DT, KNN, SVM, RF, XGB, Ensemble)
     2. Cutoff 설정
-3. Model Selection
+3. Model Selection(ROC plot, AUC)
 <br>
 
 ## 분석 과정
